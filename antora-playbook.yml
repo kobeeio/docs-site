@@ -1,0 +1,161 @@
+site:
+  title: Kobee Documentation
+  url: https://docs.kobee.io
+  start_page: user-guide-en::Introduction.adoc
+content:
+  sources:    
+    #---------
+    # ALM User Guide
+    #---------    
+  - url: https://github.com/kobeeio/docs-general
+    branches: main
+    start_path: /user-guide/user-guide-en   
+  - url: https://github.com/kobeeio/docs-general
+    branches: main
+    start_path: /user-guide/user-guide-fr
+    #---------
+    # Installation Guide
+    #---------    
+  - url: https://github.com/kobeeio/docs-general
+    branches: main
+    start_path: /installation-guide/installation-guide-en    
+  - url: https://github.com/kobeeio/docs-general
+    branches: main
+    start_path: /installation-guide/installation-guide-fr  
+    #---------
+    # REST API
+    #---------    
+  - url: https://github.com/kobeeio/docs-general
+    branches: main
+    start_path: /rest-api         
+    #---------
+    # How to Guides
+    #---------    
+  - url: https://github.com/kobeeio/docs-how-to
+    branches: main
+    start_path: /how-to-ui-agentinstall/how-to-ui-agentinstall-en       
+  - url: https://github.com/kobeeio/docs-how-to
+    branches: main
+    start_path: /how-to-ui-agentinstall/how-to-ui-agentinstall-fr  
+    #
+  - url: https://github.com/kobeeio/docs-how-to
+    branches: main
+    start_path: /how-to-clear-browsercache/how-to-clear-browsercache-en       
+  - url: https://github.com/kobeeio/docs-how-to
+    branches: main
+    start_path: /how-to-clear-browsercache/how-to-clear-browsercache-fr  
+ui:   
+  bundle:
+    url: /home/ikan/kobee-documentation-generator/docs-ui/build/ui-bundle.zip
+    # snapshot should be set in order to fetch the UI bundle on each website generation (OR by using the CLI attribute --fetch option), otherwise it will use the cached version
+    snapshot: true      
+output:
+  destinations:
+  - provider: fs
+    path: ./sites
+runtime:
+  #cache_dir: ./cache/antora
+  fetch: true
+antora:
+  extensions:
+  - require: '@antora/lunr-extension'
+    languages: [en, fr]
+    index_latest_only: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
