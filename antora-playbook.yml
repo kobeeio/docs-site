@@ -27,7 +27,16 @@ content:
     #---------    
   - url: https://github.com/kobeeio/docs-general
     branches: main
-    start_path: /rest-api         
+    start_path: /rest-api   
+    #---------
+    # Technical Sheet
+    #---------    
+  - url: https://github.com/kobeeio/docs-general
+    branches: main
+    start_path: /technical-sheet/technical-sheet-en    
+  - url: https://github.com/kobeeio/docs-general
+    branches: main
+    start_path: /technical-sheet/technical-sheet-fr            
     #---------
     # How to Guides
     #---------    
