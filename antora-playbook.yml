@@ -52,7 +52,14 @@ content:
     start_path: /how-to-clear-browsercache/how-to-clear-browsercache-en       
   - url: https://github.com/kobeeio/docs-how-to
     branches: main
-    start_path: /how-to-clear-browsercache/how-to-clear-browsercache-fr  
+    start_path: /how-to-clear-browsercache/how-to-clear-browsercache-fr
+    #
+  - url: https://github.com/kobeeio/docs-how-to
+    branches: main
+    start_path: /how-to-jira-integration/how-to-jira-integration-en       
+  - url: https://github.com/kobeeio/docs-how-to
+    branches: main
+    start_path: /how-to-jira-integration/how-to-jira-integration-fr    
 ui:   
   bundle:
     url: /home/ikan/kobee-documentation-generator/docs-ui/build/ui-bundle.zip
