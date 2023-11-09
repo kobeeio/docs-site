@@ -63,6 +63,10 @@ content:
     #
   - url: https://github.com/kobeeio/docs-how-to-phases
     branches: main
+    start_path: /how-to-phase-parameters
+    #    
+  - url: https://github.com/kobeeio/docs-how-to-phases
+    branches: main
     start_path: /how-to-use-and-develop-phases/how-to-use-and-develop-phases-en       
   - url: https://github.com/kobeeio/docs-how-to-phases
     branches: main
