@@ -59,7 +59,20 @@ content:
     start_path: /how-to-jira-integration/how-to-jira-integration-en       
   - url: https://github.com/kobeeio/docs-how-to
     branches: main
-    start_path: /how-to-jira-integration/how-to-jira-integration-fr    
+    start_path: /how-to-jira-integration/how-to-jira-integration-fr
+    #
+  - url: https://github.com/kobeeio/docs-how-to-phases
+    branches: main
+    start_path: /how-to-use-and-develop-phases/how-to-use-and-develop-phases-en       
+  - url: https://github.com/kobeeio/docs-how-to-phases
+    branches: main
+    start_path: /how-to-use-and-develop-phases/how-to-use-and-develop-phases-fr    
+    #---------
+    # Integrations
+    #---------    
+  - url: https://github.com/kobeeio/docs-integrations-zos
+    branches: main
+    start_path: /zos-phases-catalog         
 ui:   
   bundle:
     url: /home/ikan/kobee-documentation-generator/docs-ui/build/ui-bundle.zip
