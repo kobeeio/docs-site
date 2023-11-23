@@ -76,7 +76,10 @@ content:
     #---------    
   - url: https://github.com/kobeeio/docs-integrations-zos
     branches: main
-    start_path: /zos-phases-catalog         
+    start_path: /zos-phases-catalog    
+  - url: https://github.com/kobeeio/docs-integrations-zos
+    branches: main
+    start_path: /zos-krc/krc-installation-guide           
 ui:   
   bundle:
     url: /home/ikan/kobee-documentation-generator/docs-ui/build/ui-bundle.zip
