@@ -8,80 +8,80 @@ content:
     # ALM User Guide
     #---------    
   - url: https://github.com/kobeeio/docs-general
-    branches: main
+    branches: '6.0'
     start_path: /user-guide/user-guide-en   
   - url: https://github.com/kobeeio/docs-general
-    branches: main
+    branches: '6.0'
     start_path: /user-guide/user-guide-fr
     #---------
     # Installation Guide
     #---------    
   - url: https://github.com/kobeeio/docs-general
-    branches: main
+    branches: '6.0'
     start_path: /installation-guide/installation-guide-en    
   - url: https://github.com/kobeeio/docs-general
-    branches: main
+    branches: '6.0'
     start_path: /installation-guide/installation-guide-fr  
     #---------
     # REST API
     #---------    
   - url: https://github.com/kobeeio/docs-general
-    branches: main
+    branches: '6.0'
     start_path: /rest-api   
     #---------
     # Technical Sheet
     #---------    
   - url: https://github.com/kobeeio/docs-general
-    branches: main
+    branches: '6.0'
     start_path: /technical-sheet/technical-sheet-en    
   - url: https://github.com/kobeeio/docs-general
-    branches: main
+    branches: '6.0'
     start_path: /technical-sheet/technical-sheet-fr            
     #---------
     # How to Guides
     #---------    
   - url: https://github.com/kobeeio/docs-how-to
-    branches: main
+    branches: '6.0'
     start_path: /how-to-ui-agentinstall/how-to-ui-agentinstall-en       
   - url: https://github.com/kobeeio/docs-how-to
-    branches: main
+    branches: '6.0'
     start_path: /how-to-ui-agentinstall/how-to-ui-agentinstall-fr  
     #
   - url: https://github.com/kobeeio/docs-how-to
-    branches: main
+    branches: '6.0'
     start_path: /how-to-clear-browsercache/how-to-clear-browsercache-en       
   - url: https://github.com/kobeeio/docs-how-to
-    branches: main
+    branches: '6.0'
     start_path: /how-to-clear-browsercache/how-to-clear-browsercache-fr
     #
   - url: https://github.com/kobeeio/docs-how-to
-    branches: main
+    branches: '6.0'
     start_path: /how-to-jira-integration/how-to-jira-integration-en       
   - url: https://github.com/kobeeio/docs-how-to
-    branches: main
+    branches: '6.0'
     start_path: /how-to-jira-integration/how-to-jira-integration-fr
     #
   - url: https://github.com/kobeeio/docs-how-to-phases
-    branches: main
+    branches: '1.0'
     start_path: /how-to-phase-parameters
     #    
   - url: https://github.com/kobeeio/docs-how-to-phases
-    branches: main
+    branches: '5.7'
     start_path: /how-to-use-and-develop-phases/how-to-use-and-develop-phases-en       
   - url: https://github.com/kobeeio/docs-how-to-phases
-    branches: main
+    branches: '5.7'
     start_path: /how-to-use-and-develop-phases/how-to-use-and-develop-phases-fr    
     #---------
     # Integrations
     #---------    
   - url: https://github.com/kobeeio/docs-integrations-zos
-    branches: main
+    branches: '2.1'
     start_path: /zos-phases-catalog    
   - url: https://github.com/kobeeio/docs-integrations-zos
-    branches: main
+    branches: '2.2'
     start_path: /zos-krc/krc-installation-guide    
   - url: https://github.com/kobeeio/docs-integrations-zos
-    branches: main
+    branches: '2.2'
     start_path: /zos-krc/krc-user-guide             
 ui:   
   bundle:
