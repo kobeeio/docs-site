@@ -60,7 +60,9 @@ content:
   - url: https://github.com/kobeeio/docs-how-to
     branches: '6.0'
     start_path: /how-to-jira-integration/how-to-jira-integration-fr
-    #
+    #---------
+    # How to Phases Guides
+    #---------        
   - url: https://github.com/kobeeio/docs-how-to-phases
     branches: '1.0'
     start_path: /how-to-phase-parameters
