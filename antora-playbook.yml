@@ -78,13 +78,13 @@ content:
     #---------    
   - url: https://github.com/kobeeio/docs-integrations-zos
     branches: main
-    start_path: /zos-phases-catalog    
+    start_path: /integration-zos-phases-catalog    
   - url: https://github.com/kobeeio/docs-integrations-zos
     branches: '2.2'
-    start_path: /zos-krc/krc-installation-guide    
+    start_path: /integration-zos-krc/integration-krc-installation-guide    
   - url: https://github.com/kobeeio/docs-integrations-zos
     branches: '2.2'
-    start_path: /zos-krc/krc-user-guide             
+    start_path: /integration-zos-krc/integration-krc-user-guide             
 ui:   
   bundle:
     url: /home/ikan/kobee-documentation-generator/docs-ui/build/ui-bundle.zip
