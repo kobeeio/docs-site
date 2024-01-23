@@ -64,20 +64,20 @@ content:
     # How to Phases Guides
     #---------        
   - url: https://github.com/kobeeio/docs-how-to-phases
-    branches: '1.0'
+    branches: main
     start_path: /how-to-phase-parameters
     #    
   - url: https://github.com/kobeeio/docs-how-to-phases
-    branches: '5.7'
+    branches: main
     start_path: /how-to-use-and-develop-phases/how-to-use-and-develop-phases-en       
   - url: https://github.com/kobeeio/docs-how-to-phases
-    branches: '5.7'
+    branches: main
     start_path: /how-to-use-and-develop-phases/how-to-use-and-develop-phases-fr    
     #---------
     # Integrations
     #---------    
   - url: https://github.com/kobeeio/docs-integrations-zos
-    branches: '2.1'
+    branches: main
     start_path: /zos-phases-catalog    
   - url: https://github.com/kobeeio/docs-integrations-zos
     branches: '2.2'
