@@ -5,7 +5,7 @@ site:
 content:
   sources:    
     #---------
-    # ALM User Guide
+    # User Guide
     #---------    
   - url: https://github.com/kobeeio/docs-general
     branches: '6.0'
@@ -84,7 +84,10 @@ content:
     start_path: /integration-zos-krc/integration-krc-installation-guide    
   - url: https://github.com/kobeeio/docs-integrations-zos
     branches: '2.2'
-    start_path: /integration-zos-krc/integration-krc-user-guide             
+    start_path: /integration-zos-krc/integration-krc-user-guide    
+  - url: https://github.com/kobeeio/docs-integrations-odi
+    branches: '2.3'
+    start_path: /integration-odi-phases               
 ui:   
   bundle:
     url: /home/ikan/kobee-documentation-generator/docs-ui/build/ui-bundle.zip
