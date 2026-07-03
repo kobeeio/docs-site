@@ -63,6 +63,9 @@ content:
   - url: https://github.com/kobeeio/docs-how-to
     branches: '6.0'
     start_path: /how-to-implement-itsplugin/how-to-implement-itsplugin-en    
+  - url: https://github.com/kobeeio/docs-how-to
+    branches: '6.0'
+    start_path: /how-to-implement-itsplugin/how-to-implement-itsplugin-fr       
     #---------
     # How to Phases Guides
     #---------        
