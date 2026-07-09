@@ -59,13 +59,7 @@ content:
     start_path: /how-to-jira-integration/how-to-jira-integration-en       
   - url: https://github.com/kobeeio/docs-how-to
     branches: '6.0'
-    start_path: /how-to-jira-integration/how-to-jira-integration-fr
-  - url: https://github.com/kobeeio/docs-how-to
-    branches: '6.0'
-    start_path: /how-to-implement-itsplugin/how-to-implement-itsplugin-en    
-  - url: https://github.com/kobeeio/docs-how-to
-    branches: '6.0'
-    start_path: /how-to-implement-itsplugin/how-to-implement-itsplugin-fr       
+    start_path: /how-to-jira-integration/how-to-jira-integration-fr     
     #---------
     # How to Phases Guides
     #---------        
