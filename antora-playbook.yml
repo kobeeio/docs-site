@@ -60,6 +60,9 @@ content:
   - url: https://github.com/kobeeio/docs-how-to
     branches: '6.0'
     start_path: /how-to-jira-integration/how-to-jira-integration-fr     
+  - url: https://github.com/kobeeio/docs-how-to
+    branches: '6.0'
+    start_path: /how-to-implement-itsplugin/how-to-implement-itsplugin-en        
     #---------
     # How to Phases Guides
     #---------        
